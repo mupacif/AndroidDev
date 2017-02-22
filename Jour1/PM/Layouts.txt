@@ -1,0 +1,19 @@
+<ScrollView context, xmlns,...>
+	<LinearLayout>
+	</LinearLayout>
+</ScrollView>
+
+	- layout_width
+	- layout_height
+	- padding
+	- margin
+	- hint (EditText)
+	- checked (Checkbox)
+	- layout_weight
+	- orientation (LinearLayout, RadioGroup)
+	- text
+	- textColor
+	- textSize
+	- inputType
+	- datePickerMode (DatePicker)
+	- calendarViewShown (DatePicker)

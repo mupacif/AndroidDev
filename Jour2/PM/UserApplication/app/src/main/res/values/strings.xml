@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Application</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="password_check_hint">Password (Check)</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="man_text">Man</string>
+    <string name="woman_text">Woman</string>
+    <string name="terms_of_use_text">I agree with the terms of use</string>
+    <string name="sign_up_btn_text">Sign up</string>
+</resources>
