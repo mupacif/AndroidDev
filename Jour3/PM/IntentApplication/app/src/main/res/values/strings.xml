@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentApplication</string>
+    <string name="btn_add_text">Add</string>
+    <string name="to_do">To do</string>
+</resources>
