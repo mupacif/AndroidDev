@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileApp</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="delete">Delete</string>
+</resources>
